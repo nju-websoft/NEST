@@ -1,0 +1,200 @@
+http://data.linkedmdb.org/resource/film/12398	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/13587		1 1 1 0 0 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/12398	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/44076		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/12398	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/29731		0 1 0 0 0 1 0 1 0 0 1 1
+http://data.linkedmdb.org/resource/film/12398	http://xmlns.com/foaf/0.1/page	http://www.freebase.com/view/guid/9202a8c04000641f80000000047968f5		0 0 0 0 0 0 0 0 1 0 0 0
+http://data.linkedmdb.org/resource/film/12398	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/728		0 0 0 0 1 0 0 0 0 0 1 1
+http://data.linkedmdb.org/resource/film/12710	http://www.w3.org/2000/01/rdf-schema#label	Megaville		1 1 1 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/12710	http://dbpedia.org/property/hasPhotoCollection	http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville		0 0 1 0 0 0 0 0 1 1 1 0
+http://data.linkedmdb.org/resource/interlink/24033	http://data.linkedmdb.org/resource/oddlinker/link_source	http://data.linkedmdb.org/resource/film/12710		0 0 0 0 0 0 0 0 1 0 0 0
+http://data.linkedmdb.org/resource/film/12710	http://data.linkedmdb.org/resource/movie/editor	http://data.linkedmdb.org/resource/editor/2661		0 0 0 1 0 1 1 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/12710	http://data.linkedmdb.org/resource/movie/film_story_contributor	http://data.linkedmdb.org/resource/film_story_contributor/255		0 0 1 0 0 0 0 0 1 1 0 0
+http://data.linkedmdb.org/resource/film/14299	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/39031		0 1 0 0 0 0 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/14299	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		1 1 0 0 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/14299	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/31497		0 0 0 0 0 0 1 0 0 0 1 1
+http://data.linkedmdb.org/resource/film/14299	http://purl.org/dc/terms/title	Briana Loves Jenna		0 0 0 1 1 0 0 0 0 1 1 0
+http://data.linkedmdb.org/resource/film/14299	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/2930		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/14438	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/50788		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/14438	http://data.linkedmdb.org/resource/movie/editor	http://data.linkedmdb.org/resource/editor/2641		0 0 0 0 0 0 1 0 0 1 0 0
+http://data.linkedmdb.org/resource/film/14438	http://purl.org/dc/terms/date	1972		0 1 0 0 1 1 0 1 0 0 1 1
+http://data.linkedmdb.org/resource/film/14438	http://data.linkedmdb.org/resource/movie/initial_release_date	1972		1 0 1 0 0 1 1 0 1 1 0 1
+http://data.linkedmdb.org/resource/film/14438	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/34407		0 1 1 1 1 1 0 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/2108	http://data.linkedmdb.org/resource/movie/performance	http://data.linkedmdb.org/resource/performance/9656		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/2108	http://purl.org/dc/terms/date	2003-06-13		1 0 1 0 0 0 1 0 1 1 1 0
+http://data.linkedmdb.org/resource/film/2108	http://data.linkedmdb.org/resource/movie/initial_release_date	2003-06-13		0 1 1 0 0 0 1 1 1 0 0 0
+http://data.linkedmdb.org/resource/film/2108	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		1 0 0 0 1 1 1 1 0 0 1 1
+http://data.linkedmdb.org/resource/film/2108	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/1193		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/2381	http://data.linkedmdb.org/resource/movie/music_contributor	http://data.linkedmdb.org/resource/music_contributor/4557		0 0 0 0 0 0 0 0 1 1 0 0
+http://data.linkedmdb.org/resource/film/2381	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		0 1 0 0 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/2381	http://data.linkedmdb.org/resource/movie/writer	http://data.linkedmdb.org/resource/writer/13288		0 0 1 1 0 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/2381	http://data.linkedmdb.org/resource/movie/film_subject	http://data.linkedmdb.org/resource/film_subject/375		0 0 1 0 0 1 0 0 1 1 0 1
+http://data.linkedmdb.org/resource/film/2381	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/15178		1 1 0 0 0 0 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/2572	http://data.linkedmdb.org/resource/movie/cinematographer	http://data.linkedmdb.org/resource/cinematographer/183		0 0 0 0 0 0 0 1 1 0 0 0
+http://data.linkedmdb.org/resource/film/2572	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/34874		0 1 0 0 0 0 1 1 0 0 1 0
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/10936	http://data.linkedmdb.org/resource/movie/film_of_distributor	http://data.linkedmdb.org/resource/film/2572		1 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/2572	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		1 1 1 0 1 1 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/2572	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/47098		0 0 0 0 0 0 1 0 1 1 1 1
+http://data.linkedmdb.org/resource/film/4053	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/526		0 0 1 0 0 0 1 1 1 1 0 1
+http://data.linkedmdb.org/resource/film/4053	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/1570		0 1 0 0 0 0 0 1 1 0 1 0
+http://data.linkedmdb.org/resource/film/4053	http://data.linkedmdb.org/resource/movie/genre	http://data.linkedmdb.org/resource/film_genre/4		1 0 1 0 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/4053	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/19714		0 1 0 1 0 0 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/4053	http://data.linkedmdb.org/resource/movie/writer	http://data.linkedmdb.org/resource/writer/23034		0 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/41006	http://data.linkedmdb.org/resource/movie/initial_release_date	1995		0 0 0 0 0 0 0 0 0 1 0 0
+http://data.linkedmdb.org/resource/film/41006	http://purl.org/dc/terms/date	1995		1 1 1 1 0 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/41006	http://purl.org/dc/terms/title	The Incredibly True Adventure of Two Girls in Love		0 1 1 0 1 1 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/41006	http://data.linkedmdb.org/resource/movie/filmid	41006^^http://www.w3.org/2001/XMLSchema#int		0 0 0 0 0 0 0 0 0 0 0 1
+http://data.linkedmdb.org/resource/film/41006	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		0 1 0 1 1 0 0 1 0 1 1 0
+http://data.linkedmdb.org/resource/film/41408	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/10319		1 0 0 0 0 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/41408	http://purl.org/dc/terms/date	1946-02-06		0 0 1 0 0 1 0 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/41408	http://data.linkedmdb.org/resource/movie/initial_release_date	1946-02-06		1 0 0 1 1 1 1 0 0 1 1 1
+http://data.linkedmdb.org/resource/film/41408	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33562		0 0 0 0 0 0 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/41408	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/8475		1 1 0 1 1 1 1 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/41573	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33143		0 0 0 0 1 0 1 0 1 0 1 0
+http://data.linkedmdb.org/resource/film/41573	http://purl.org/dc/terms/date	1954		0 0 0 0 0 1 0 0 1 0 0 1
+http://data.linkedmdb.org/resource/film/41573	http://data.linkedmdb.org/resource/movie/initial_release_date	1954		0 0 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/41573	http://data.linkedmdb.org/resource/movie/filmid	41573^^http://www.w3.org/2001/XMLSchema#int		0 0 0 0 0 1 0 0 1 0 0 1
+http://data.linkedmdb.org/resource/film/41573	http://purl.org/dc/terms/title	Broken Lance		0 0 0 0 0 0 0 0 0 1 0 1
+http://data.linkedmdb.org/resource/film/4501	http://data.linkedmdb.org/resource/movie/initial_release_date	1994-07-09		0 0 1 0 0 0 0 0 1 1 0 0
+http://data.linkedmdb.org/resource/film/4501	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		1 1 0 1 1 1 1 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/4501	http://data.linkedmdb.org/resource/movie/sequel	http://data.linkedmdb.org/resource/film/1835		0 0 0 0 0 0 1 0 1 0 0 0
+http://data.linkedmdb.org/resource/film/4501	http://purl.org/dc/terms/date	1994-07-09		1 1 0 1 0 1 1 1 0 1 1 0
+http://data.linkedmdb.org/resource/film/4501	http://purl.org/dc/terms/title	Super-Warrior Defeat!! I'm the One who'll Win		0 1 0 0 0 0 0 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/5232	http://data.linkedmdb.org/resource/movie/initial_release_date	1942-10-23		1 0 1 0 1 1 1 0 1 1 1 1
+http://data.linkedmdb.org/resource/film/5232	http://data.linkedmdb.org/resource/movie/production_company	http://data.linkedmdb.org/resource/production_company/30		0 0 0 0 0 0 1 0 1 0 1 0
+http://data.linkedmdb.org/resource/film/5232	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/5155		0 0 1 0 0 0 1 1 1 1 0 0
+http://data.linkedmdb.org/resource/film/5232	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30295		1 1 0 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/5232	http://data.linkedmdb.org/resource/movie/language	http://www.lingvoj.org/lingvo/en		0 0 1 0 0 1 0 0 1 0 1 1
+http://data.linkedmdb.org/resource/film/6191	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/4154		1 0 0 0 1 0 1 0 0 1 1 1
+http://data.linkedmdb.org/resource/film/6191	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/14066		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/6191	http://purl.org/dc/terms/date	1983-10-12		1 1 1 0 0 1 1 1 1 0 0 1
+http://data.linkedmdb.org/resource/film/6191	http://data.linkedmdb.org/resource/movie/language	http://www.lingvoj.org/lingvo/ja		0 0 0 1 0 1 0 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/6191	http://data.linkedmdb.org/resource/movie/country	http://data.linkedmdb.org/resource/country/JP		1 0 0 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/6213	http://data.linkedmdb.org/resource/movie/runtime	109		0 0 0 0 0 0 1 1 0 1 1 0
+http://data.linkedmdb.org/resource/film/6213	http://data.linkedmdb.org/resource/movie/initial_release_date	1990-02-15		1 0 0 0 0 1 1 0 0 0 0 1
+http://data.linkedmdb.org/resource/film/6213	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/11068		1 0 0 0 0 1 1 0 1 0 1 1
+http://data.linkedmdb.org/resource/film/6213	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/8982		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/6213	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		0 0 1 0 1 0 1 0 1 0 1 0
+http://data.linkedmdb.org/resource/film/6468	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/32753		0 1 1 0 0 0 1 1 1 0 0 1
+http://data.linkedmdb.org/resource/film/6468	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/11328		1 1 1 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/6468	http://data.linkedmdb.org/resource/movie/writer	http://data.linkedmdb.org/resource/writer/17242		1 0 0 1 0 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/6468	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/35595		0 0 0 0 0 0 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/6468	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		1 0 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/70866	http://data.linkedmdb.org/resource/movie/initial_release_date	2006		0 0 1 1 0 0 0 0 1 1 1 0
+http://data.linkedmdb.org/resource/film/70866	http://purl.org/dc/terms/date	2006		1 1 0 0 1 1 1 1 0 0 1 1
+http://data.linkedmdb.org/resource/film/70866	http://data.linkedmdb.org/resource/movie/production_company	http://data.linkedmdb.org/resource/production_company/368		0 1 0 1 0 0 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/70866	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/60309		0 0 0 0 0 0 1 0 1 0 0 0
+http://data.linkedmdb.org/resource/film/70866	http://data.linkedmdb.org/resource/movie/production_company	http://data.linkedmdb.org/resource/production_company/197		0 0 0 0 0 0 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/7348	http://data.linkedmdb.org/resource/movie/genre	http://data.linkedmdb.org/resource/film_genre/30		1 0 1 0 0 0 0 1 1 0 1 1
+http://data.linkedmdb.org/resource/film/7348	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30114		0 1 0 0 0 0 0 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/7348	http://data.linkedmdb.org/resource/movie/initial_release_date	1983		1 0 1 0 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/7348	http://purl.org/dc/terms/date	1983		0 0 0 1 0 0 0 0 0 1 0 0
+http://data.linkedmdb.org/resource/film/7348	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/15854		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/7963	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/37715		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/7963	http://data.linkedmdb.org/resource/movie/editor	http://data.linkedmdb.org/resource/editor/1709		0 1 0 1 0 0 1 1 1 1 0 1
+http://data.linkedmdb.org/resource/film/7963	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/11682		1 0 1 1 0 1 1 0 1 1 0 1
+http://data.linkedmdb.org/resource/film/7963	http://data.linkedmdb.org/resource/movie/writer	http://data.linkedmdb.org/resource/writer/4850		0 1 0 1 0 0 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/7963	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/31908		0 0 0 0 0 0 1 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/8446	http://data.linkedmdb.org/resource/movie/genre	http://data.linkedmdb.org/resource/film_genre/15		1 1 0 0 0 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/8446	http://data.linkedmdb.org/resource/movie/producer	http://data.linkedmdb.org/resource/producer/1174		0 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/8446	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/31581		0 0 1 1 1 0 0 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/8446	http://data.linkedmdb.org/resource/movie/cinematographer	http://data.linkedmdb.org/resource/cinematographer/157		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/8446	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/film		0 0 1 0 1 0 0 0 1 1 1 0
+http://data.linkedmdb.org/resource/director/10100	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/40146		0 0 1 1 0 0 0 0 1 1 0 1
+http://data.linkedmdb.org/resource/director/10100	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/1160		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/40914	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/10100		0 1 0 0 0 0 0 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/1159	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/10100		1 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/director/10100	http://data.linkedmdb.org/resource/movie/director_name	Abel Ferrara		1 0 0 0 1 1 1 0 0 1 1 1
+http://data.linkedmdb.org/resource/director/10846	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/84412		0 1 0 0 0 0 0 1 1 0 0 0
+http://data.linkedmdb.org/resource/director/10846	http://data.linkedmdb.org/resource/movie/director_name	Paul Morris		0 0 1 1 0 1 0 0 1 1 0 1
+http://data.linkedmdb.org/resource/director/10846	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/85570		0 0 1 0 0 0 0 0 1 0 0 0
+http://data.linkedmdb.org/resource/director/10846	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/92998		0 0 0 0 0 0 1 1 0 1 0 1
+http://data.linkedmdb.org/resource/director/10846	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/director		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/40118	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/29369		0 0 0 0 1 0 0 0 0 0 1 0
+http://data.linkedmdb.org/resource/film/584	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/29369		0 0 0 0 0 0 0 1 0 0 1 0
+http://data.linkedmdb.org/resource/actor/29369	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/29369	http://data.linkedmdb.org/resource/movie/actor_name	Arnold Schwarzenegger		0 0 0 0 0 1 0 1 0 0 0 1
+http://data.linkedmdb.org/resource/film/39464	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/29369		0 0 1 0 1 1 0 0 1 0 1 1
+http://data.linkedmdb.org/resource/actor/30569	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/30569	http://data.linkedmdb.org/resource/movie/actor_name	Elsa Lanchester		1 1 0 0 0 0 1 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/9082	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30569		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/43033	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30569		0 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/30569	http://data.linkedmdb.org/resource/movie/actor_netflix_id			0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/30598	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 0 1 1 1 1 1 0 1 1
+http://data.linkedmdb.org/resource/actor/30598	http://data.linkedmdb.org/resource/movie/actor_name	Tom Courtenay		0 0 0 0 1 1 0 0 0 0 1 1
+http://data.linkedmdb.org/resource/film/10692	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30598		0 0 0 0 0 0 0 0 0 1 1 0
+http://data.linkedmdb.org/resource/film/41317	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30598		0 0 0 0 0 0 0 1 1 0 0 1
+http://data.linkedmdb.org/resource/film/2338	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/30598		0 0 0 0 1 0 0 1 0 0 1 1
+http://data.linkedmdb.org/resource/film/3298	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/31707		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/63987	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/31707		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/49012	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/31707		0 0 0 0 0 0 0 1 1 0 1 0
+http://data.linkedmdb.org/resource/actor/31707	http://data.linkedmdb.org/resource/movie/actor_actorid	31707^^http://www.w3.org/2001/XMLSchema#int		0 0 0 1 0 0 0 0 1 1 0 0
+http://data.linkedmdb.org/resource/actor/31707	http://www.w3.org/2000/01/rdf-schema#label	Margaret Colin (Actor)		1 0 1 1 0 0 1 0 1 1 0 1
+http://data.linkedmdb.org/resource/actor/32500	http://data.linkedmdb.org/resource/movie/performance	http://data.linkedmdb.org/resource/performance/152821		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/32500	http://data.linkedmdb.org/resource/movie/performance	http://data.linkedmdb.org/resource/performance/152810		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/32500	http://www.w3.org/2000/01/rdf-schema#label	Byron Long (Actor)		0 0 1 0 1 0 1 0 1 1 1 1
+http://data.linkedmdb.org/resource/film/75089	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/32500		0 0 0 0 1 0 1 0 0 0 1 0
+http://data.linkedmdb.org/resource/actor/32500	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/32648	http://data.linkedmdb.org/resource/movie/actor_name	Tomokazu Seki		0 0 0 1 0 0 0 1 0 1 1 0
+http://data.linkedmdb.org/resource/film/49130	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/32648		0 0 0 0 0 0 1 0 0 1 0 0
+http://data.linkedmdb.org/resource/film/1531	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/32648		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/32648	http://data.linkedmdb.org/resource/movie/actor_actorid	32648^^http://www.w3.org/2001/XMLSchema#int		1 1 0 0 0 1 1 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/64477	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/32648		1 1 0 0 1 0 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/film/5345	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33137		1 0 0 0 0 0 1 1 0 0 0 1
+http://data.linkedmdb.org/resource/film/19674	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33137		0 0 0 1 0 0 0 0 0 1 0 0
+http://data.linkedmdb.org/resource/film/4108	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33137		1 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/9051	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33137		0 0 1 0 1 0 1 0 1 1 1 1
+http://data.linkedmdb.org/resource/film/49090	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/33137		0 0 0 0 0 0 1 1 1 1 0 1
+http://data.linkedmdb.org/resource/actor/34577	http://data.linkedmdb.org/resource/movie/actor_actorid	34577^^http://www.w3.org/2001/XMLSchema#int		1 0 1 0 0 0 1 0 1 1 1 0
+http://data.linkedmdb.org/resource/actor/34577	http://data.linkedmdb.org/resource/movie/actor_name	James Naughton		0 0 0 1 1 0 0 0 0 1 1 0
+http://data.linkedmdb.org/resource/film/15764	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/34577		0 0 0 0 0 0 1 1 0 0 1 0
+http://data.linkedmdb.org/resource/film/57576	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/34577		0 0 0 0 0 0 0 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/39205	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/34577		0 0 1 1 0 1 0 1 1 1 0 1
+http://data.linkedmdb.org/resource/film/13144	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/36141		1 1 0 0 1 0 1 0 0 0 1 0
+http://data.linkedmdb.org/resource/film/16976	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/36141		0 0 0 0 0 0 0 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/59733	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/36141		0 1 0 0 0 0 0 0 1 0 0 0
+http://data.linkedmdb.org/resource/actor/36141	http://data.linkedmdb.org/resource/movie/actor_name	Francis Ng		1 0 1 1 0 0 1 0 1 1 0 1
+http://data.linkedmdb.org/resource/film/40637	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/36141		1 0 0 0 1 0 1 0 0 0 1 0
+http://data.linkedmdb.org/resource/actor/38225	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/actor/38225	http://www.w3.org/2000/01/rdf-schema#label	Dante Basco (Actor)		0 1 0 0 1 0 0 1 0 0 1 0
+http://data.linkedmdb.org/resource/film/905	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/38225		0 1 0 0 1 1 1 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/46420	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/38225		0 0 0 0 0 0 1 0 1 0 1 0
+http://data.linkedmdb.org/resource/film/96372	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/38225		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/38875	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/38875	http://data.linkedmdb.org/resource/movie/actor_name	James Hong		1 0 1 1 1 1 1 0 1 1 1 1
+http://data.linkedmdb.org/resource/film/38069	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/38875		1 0 0 0 1 0 0 0 1 0 1 1
+http://data.linkedmdb.org/resource/film/22495	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/38875		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/film/53144	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/38875		0 0 0 0 0 0 1 0 0 0 1 0
+http://data.linkedmdb.org/resource/actor/39725	http://data.linkedmdb.org/resource/movie/performance	http://data.linkedmdb.org/resource/performance/76021		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/actor/39725	http://www.w3.org/2000/01/rdf-schema#label	Tom Hollander (Actor)		1 1 1 1 0 0 1 1 1 1 0 0
+http://data.linkedmdb.org/resource/film/3633	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/39725		0 0 0 0 0 0 1 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/73597	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/39725		1 0 0 1 1 0 1 0 0 1 1 1
+http://data.linkedmdb.org/resource/film/12260	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/39725		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/director/416	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/25006		0 0 0 0 0 0 1 0 0 0 0 0
+http://data.linkedmdb.org/resource/director/416	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/40871		0 0 0 0 0 0 0 0 0 0 0 0
+http://data.linkedmdb.org/resource/director/416	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/7007		0 0 0 0 0 0 0 0 0 0 1 0
+http://data.linkedmdb.org/resource/director/416	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/93242		0 0 0 0 1 0 0 0 0 0 1 0
+http://data.linkedmdb.org/resource/director/416	http://www.w3.org/2000/01/rdf-schema#label	Fred C. Newmeyer (Director)		1 0 1 1 0 0 1 0 1 1 0 0
+http://data.linkedmdb.org/resource/actor/43265	http://data.linkedmdb.org/resource/movie/actor_name	Prakash Raj		0 1 0 1 1 0 0 1 0 1 1 0
+http://data.linkedmdb.org/resource/actor/43265	http://www.w3.org/2000/01/rdf-schema#label	Prakash Raj (Actor)		0 0 1 1 0 0 0 0 1 1 0 0
+http://data.linkedmdb.org/resource/film/12792	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/43265		1 1 0 0 1 0 1 1 1 0 1 0
+http://data.linkedmdb.org/resource/film/50248	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/43265		0 0 0 0 0 0 0 0 0 0 0 1
+http://data.linkedmdb.org/resource/film/14559	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/43265		1 1 1 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/actor/52869	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/52869	http://www.w3.org/2000/01/rdf-schema#label	Sara Berner (Actor)		0 1 1 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/12950	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/52869		1 0 0 0 0 0 1 1 0 0 1 0
+http://data.linkedmdb.org/resource/film/43693	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/52869		0 0 0 0 1 0 1 1 0 1 1 1
+http://data.linkedmdb.org/resource/film/44517	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/52869		0 0 1 1 1 1 1 0 1 1 1 1
+http://data.linkedmdb.org/resource/actor/62725	http://data.linkedmdb.org/resource/movie/actor_actorid	62725^^http://www.w3.org/2001/XMLSchema#int		0 0 1 1 0 0 0 0 1 1 0 0
+http://data.linkedmdb.org/resource/actor/62725	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 1 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/62725	http://www.w3.org/2000/01/rdf-schema#label	Rod Daily (Actor)		0 0 0 0 1 1 0 0 0 1 1 1
+http://data.linkedmdb.org/resource/actor/62725	http://data.linkedmdb.org/resource/movie/performance	http://data.linkedmdb.org/resource/performance/188409		0 0 0 0 0 0 0 0 0 0 1 0
+http://data.linkedmdb.org/resource/actor/62725	http://data.linkedmdb.org/resource/movie/performance	http://data.linkedmdb.org/resource/performance/171445		0 0 0 0 0 0 0 1 1 1 0 0
+http://data.linkedmdb.org/resource/actor/67878	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://data.linkedmdb.org/resource/movie/actor		1 1 1 1 1 0 1 1 1 1 1 1
+http://data.linkedmdb.org/resource/actor/67878	http://www.w3.org/2000/01/rdf-schema#label	Devyn Foster (Actor)		0 1 1 1 1 0 0 1 1 1 1 0
+http://data.linkedmdb.org/resource/film/86571	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/67878		1 0 0 1 1 0 1 0 0 1 1 1
+http://data.linkedmdb.org/resource/actor/67878	http://xmlns.com/foaf/0.1/page	http://www.freebase.com/view/guid/9202a8c04000641f8000000012ca2cfe		0 0 1 0 0 1 0 0 1 0 0 1
+http://data.linkedmdb.org/resource/film/91044	http://data.linkedmdb.org/resource/movie/actor	http://data.linkedmdb.org/resource/actor/67878		0 0 0 0 0 0 1 0 0 1 1 0
+http://data.linkedmdb.org/resource/director/8669	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/2661		0 1 0 0 0 0 1 0 1 0 0 0
+http://data.linkedmdb.org/resource/director/8669	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/64122		1 0 1 1 1 0 1 1 1 1 1 0
+http://data.linkedmdb.org/resource/director/8669	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/43099		0 0 0 0 0 0 0 1 1 0 0 0
+http://data.linkedmdb.org/resource/director/8669	http://xmlns.com/foaf/0.1/made	http://data.linkedmdb.org/resource/film/43047		0 0 0 0 0 0 1 1 0 0 0 0
+http://data.linkedmdb.org/resource/film/15228	http://data.linkedmdb.org/resource/movie/director	http://data.linkedmdb.org/resource/director/8669		0 0 0 0 0 0 0 0 0 0 0 0

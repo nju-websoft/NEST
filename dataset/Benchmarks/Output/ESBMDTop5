@@ -1,0 +1,500 @@
+http://dbpedia.org/resource/3WAY_FM	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Warrnambool		1 0 1 1 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/3WAY_FM	http://dbpedia.org/ontology/slogan	Great Ocean Radio@en		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/3WAY_FM	http://dbpedia.org/ontology/broadcastArea	http://dbpedia.org/resource/Victoria_(Australia)		1 1 0 1 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/3WAY_FM	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/RadioStation		1 0 0 1 1 0 1 0 0 1 0 0
+http://dbpedia.org/resource/3WAY_FM	http://www.w3.org/2000/01/rdf-schema#label	3WAY FM@en		0 0 0 1 1 0 1 1 0 1 1 1
+http://dbpedia.org/resource/Adrian_Griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q3665646		1 1 0 0 0 1 0 1 0 0 0 1
+http://dbpedia.org/resource/Adrian_Griffin	http://www.w3.org/2000/01/rdf-schema#label	Adrian Griffin@en		1 1 1 0 0 0 0 1 1 0 0 0
+http://dbpedia.org/resource/Adrian_Griffin	http://dbpedia.org/ontology/draftYear	1996^^http://www.w3.org/2001/XMLSchema#gYear		1 1 0 0 0 0 1 1 0 0 0 0
+http://dbpedia.org/resource/Adrian_Griffin	http://xmlns.com/foaf/0.1/name	Adrian Griffin@en		0 0 0 0 1 0 0 0 0 1 1 0
+http://dbpedia.org/resource/Adrian_Griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/MilwaukeeBucksAssistantCoaches		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Andrew_Kippis	http://purl.org/dc/elements/1.1/description	British minister@en		0 1 1 0 0 0 0 1 1 0 0 1
+http://dbpedia.org/resource/Andrew_Kippis	http://dbpedia.org/ontology/deathDate	1795-10-08^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Andrew_Kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:English_Christian_religious_leaders		1 0 0 1 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Andrew_Kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society		0 0 0 0 0 0 1 1 0 1 0 0
+http://dbpedia.org/resource/Andrew_Kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:People_educated_at_Carre's_Grammar_School		0 0 0 0 0 0 0 0 1 1 0 1
+http://dbpedia.org/resource/Anthony_Beaumont-Dark	http://purl.org/dc/elements/1.1/description	British politician@en		0 0 1 0 1 0 0 0 1 0 1 0
+http://dbpedia.org/resource/Anthony_Beaumont-Dark	http://dbpedia.org/ontology/deathYear	2006^^http://www.w3.org/2001/XMLSchema#gYear		0 1 0 1 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/Anthony_Beaumont-Dark	http://dbpedia.org/ontology/birthDate	1932-10-11^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Anthony_Beaumont-Dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1932_births		0 0 0 0 0 1 0 0 0 1 0 1
+http://dbpedia.org/resource/Anthony_Beaumont-Dark	http://purl.org/dc/elements/1.1/description	British politician		1 1 0 0 0 0 1 1 1 0 0 1
+http://dbpedia.org/resource/Dallas_Keuchel	http://dbpedia.org/ontology/birthDate	1988-01-01^^http://www.w3.org/2001/XMLSchema#date		1 1 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Dallas_Keuchel	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/Houston_Astros		1 0 1 1 1 0 1 0 1 1 1 1
+http://dbpedia.org/resource/Dallas_Keuchel	http://purl.org/dc/elements/1.1/description	American baseball player@en		0 0 0 1 0 0 0 1 1 1 1 0
+http://dbpedia.org/resource/Dallas_Keuchel	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/Starting_pitcher		0 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Dallas_Keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Person		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/E._K._Mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Speakers_of_the_Meghalaya_Legislative_Assembly		0 0 0 1 0 0 1 0 1 1 1 1
+http://dbpedia.org/resource/E._K._Mawlong	http://purl.org/dc/elements/1.1/description	Indian politician		1 0 1 0 0 0 1 0 1 0 1 0
+http://dbpedia.org/resource/E._K._Mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Person		1 0 0 1 0 1 1 0 1 1 0 1
+http://dbpedia.org/resource/E._K._Mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Members_of_the_Meghalaya_Legislative_Assembly		0 0 0 0 0 1 1 1 1 0 1 1
+http://dbpedia.org/resource/E._K._Mawlong	http://dbpedia.org/ontology/deathDate	2008-10-18^^http://www.w3.org/2001/XMLSchema#date		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Finn_Schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1898_births		0 0 0 0 0 0 0 0 0 0 1 0
+http://dbpedia.org/resource/Finn_Schiander	http://dbpedia.org/ontology/birthYear	1898^^http://www.w3.org/2001/XMLSchema#gYear		0 0 0 0 1 0 1 0 0 1 1 0
+http://dbpedia.org/resource/Finn_Schiander	http://dbpedia.org/ontology/birthDate	1898-05-07^^http://www.w3.org/2001/XMLSchema#date		1 1 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Finn_Schiander	http://purl.org/dc/elements/1.1/description	Sailor@en		0 0 1 0 0 1 0 1 1 0 1 1
+http://dbpedia.org/resource/Finn_Schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Olympic_sailors_of_Norway		0 0 1 0 0 0 0 0 1 0 1 0
+http://dbpedia.org/resource/Hagar_Wilde	http://purl.org/dc/elements/1.1/description	American writer		0 0 1 1 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/Hagar_Wilde	http://dbpedia.org/ontology/birthDate	1905-07-07^^http://www.w3.org/2001/XMLSchema#date		1 1 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Hagar_Wilde	http://www.w3.org/2000/01/rdf-schema#label	Hagar Wilde@en		0 1 1 0 1 0 0 1 1 0 1 0
+http://dbpedia.org/resource/Fired_Wife	http://dbpedia.org/ontology/basedOn	http://dbpedia.org/resource/Hagar_Wilde		1 0 0 0 0 0 1 1 1 0 0 0
+http://dbpedia.org/resource/Hagar_Wilde	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/AmericanTelevisionWriters		0 0 0 0 0 0 1 0 0 1 0 0
+http://dbpedia.org/resource/Ludwigsburg_University	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Ludwigsburg		0 0 0 0 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/Ludwigsburg_University	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/Ludwigsburg		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Ludwigsburg_University	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Germany		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Ludwigsburg_University	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/UniversitiesAndCollegesInBaden-W%C3%BCrttemberg		0 0 0 0 0 0 0 0 1 0 0 1
+http://dbpedia.org/resource/Ludwigsburg_University	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Universities_and_colleges_in_Baden-Württemberg		0 0 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Roderick_Carr	http://dbpedia.org/ontology/birthYear	1891^^http://www.w3.org/2001/XMLSchema#gYear		0 1 0 0 0 0 0 1 1 0 0 0
+http://dbpedia.org/resource/Roderick_Carr	http://dbpedia.org/ontology/allegiance	British Empire		1 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Roderick_Carr	http://dbpedia.org/ontology/birthDate	1891-08-31^^http://www.w3.org/2001/XMLSchema#date		1 0 0 1 1 0 1 0 0 1 1 0
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_I		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/RoyalAirForceAirMarshals		0 1 1 1 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/2009–10_Swiss_Cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2009–10_domestic_association_football_cups		1 1 0 0 0 0 1 1 1 0 1 0
+http://dbpedia.org/resource/2009–10_Swiss_Cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Swiss_Cup		0 1 0 0 1 0 1 1 1 0 1 1
+http://dbpedia.org/resource/2009–10_Swiss_Cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/SoccerTournament		1 1 1 1 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/2009–10_Swiss_Cup	http://xmlns.com/foaf/0.1/name	Swiss Cup@en		1 0 0 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/2009–10_Swiss_Cup	http://www.w3.org/2000/01/rdf-schema#label	2009–10 Swiss Cup@en		1 0 1 1 0 1 1 0 1 1 1 1
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://dbpedia.org/ontology/followingEvent	http://dbpedia.org/resource/2012_Kor_Royal_Cup		0 0 0 0 0 1 0 1 1 0 0 1
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/Chonburi_F.C.		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/SportsEvent		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/National_Stadium_(Thailand)		1 0 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Event		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Cork_City_F.C._matches		0 0 0 0 0 0 0 1 0 0 0 0
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/FootballMatch		1 1 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/Derry_City_F.C.		1 1 0 1 0 0 1 1 0 1 1 0
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2011_in_Republic_of_Ireland_football_cups		0 0 1 0 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	http://www.w3.org/2000/01/rdf-schema#label	2011 League of Ireland Cup Final@en		1 0 1 1 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/2011_Sparta_Prague_Open	http://dbpedia.org/ontology/tennisSurfaceType	Clay		0 1 0 1 0 1 0 1 1 1 1 1
+http://dbpedia.org/resource/2011_Sparta_Prague_Open	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Sparta_Prague_Open		0 0 0 0 0 0 0 1 1 0 0 0
+http://dbpedia.org/resource/2011_Sparta_Prague_Open	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/Prague		1 0 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2011_Sparta_Prague_Open	http://xmlns.com/foaf/0.1/homepage	http://www.spartapragueopen.cz/en		1 1 0 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/2011_Sparta_Prague_Open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q1656682		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/2012–13_UEFA_Champions_League	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2012–13_UEFA_Champions_League		0 0 1 1 1 0 0 0 1 1 1 0
+http://dbpedia.org/resource/2012–13_UEFA_Champions_League	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/SoccerTournament		1 1 1 1 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/2012–13_UEFA_Champions_League	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2012–13_in_European_football		0 1 0 0 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/2012–13_UEFA_Champions_League	http://dbpedia.org/ontology/time	19:45BST		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2012–13_UEFA_Champions_League	http://xmlns.com/foaf/0.1/name	UEFA Champions League@en		0 0 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Battle_of_Bregalnica	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Bregalnica		0 0 1 0 0 1 0 0 1 0 0 1
+http://dbpedia.org/resource/Battle_of_Bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Janko_Vukotić		0 0 0 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Battle_of_Bregalnica	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Second_Balkan_War		1 1 0 0 0 1 1 1 0 1 0 1
+http://dbpedia.org/resource/Battle_of_Bregalnica	http://dbpedia.org/ontology/strength	ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)		0 0 0 0 0 0 0 0 0 1 1 0
+http://dbpedia.org/resource/Battle_of_Bregalnica	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Ottoman_Empire		0 0 0 1 0 0 1 1 0 1 1 0
+http://dbpedia.org/resource/Battle_of_Rottofreddo	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois		0 0 0 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Battle_of_Rottofreddo	http://dbpedia.org/ontology/date	1746-08-12^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Battle_of_Rottofreddo	http://dbpedia.org/ontology/result	French victory		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Battle_of_Rottofreddo	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/War_of_the_Austrian_Succession		0 0 0 0 1 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Battle_of_Rottofreddo	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Province_of_Piacenza		0 0 0 1 0 0 1 1 0 1 0 0
+http://dbpedia.org/resource/Burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1921_in_Ireland		0 0 1 0 0 1 1 0 1 0 1 1
+http://dbpedia.org/resource/Burgery_ambush	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/George_Oliver_Plunkett		1 0 0 1 0 1 1 1 1 1 0 0
+http://dbpedia.org/resource/Burgery_ambush	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Irish_War_of_Independence		1 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:History_of_County_Waterford		0 1 0 0 0 0 0 1 0 0 0 0
+http://dbpedia.org/resource/Burgery_ambush	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/MilitaryConflict		1 0 1 0 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Massacre_on_34th_Street	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/New_York_City		1 1 1 1 0 0 1 1 1 1 0 1
+http://dbpedia.org/resource/Massacre_on_34th_Street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Professional_wrestling_in_New_York		1 1 0 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Massacre_on_34th_Street	http://dbpedia.org/ontology/promotion	http://dbpedia.org/resource/Extreme_Championship_Wrestling		1 0 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/November_to_Remember	http://dbpedia.org/ontology/followingEvent	http://dbpedia.org/resource/Massacre_on_34th_Street		0 0 0 1 0 0 0 1 0 1 1 1
+http://dbpedia.org/resource/Guilty_as_Charged	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/Massacre_on_34th_Street		0 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's	http://dbpedia.org/ontology/silverMedalist	http://dbpedia.org/resource/Stephan_Vuckovic		1 1 0 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's	http://dbpedia.org/ontology/bronzeMedalist	http://dbpedia.org/resource/Jan_Řehula		1 1 0 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's	http://dbpedia.org/ontology/goldMedalist	http://dbpedia.org/resource/Simon_Whitfield		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2000_in_triathlon		0 0 0 0 0 0 1 1 0 0 0 0
+http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's	http://www.w3.org/2000/01/rdf-schema#label	Triathlon at the 2000 Summer Olympics – Men's@en		1 1 0 0 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Akalwadi	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/Village		0 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Akalwadi	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/India		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Akalwadi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Village108672738		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Akalwadi	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Bijapur_district,_Karnataka		0 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Akalwadi	http://dbpedia.org/ontology/utcOffset	+5:30		1 1 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Chitita	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/Village		0 1 0 1 1 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Chitita	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Arica_y_Parinacota_Region		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Chitita	http://www.w3.org/2000/01/rdf-schema#label	Chitita@en		0 0 0 1 1 0 0 0 0 1 1 1
+http://dbpedia.org/resource/Chitita	http://xmlns.com/foaf/0.1/name	Chitita@en		0 1 1 1 0 0 0 1 1 1 0 1
+http://dbpedia.org/resource/Chitita	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Populated_places_in_Arica_Province		0 1 1 0 0 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Kuleh_Bayan	http://www.w3.org/2000/01/rdf-schema#label	Kuleh Bayan@en		1 1 0 1 1 0 0 1 0 1 1 0
+http://dbpedia.org/resource/Kuleh_Bayan	http://xmlns.com/foaf/0.1/name	كوله بيان@en		0 0 0 0 0 0 0 0 0 0 1 0
+http://dbpedia.org/resource/Kuleh_Bayan	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Kurdestan_Province		0 0 0 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Kuleh_Bayan	http://dbpedia.org/ontology/populationTotal	36^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		0 1 1 1 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Kuleh_Bayan	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Dehgolan_County		0 0 0 0 0 0 0 0 1 0 1 0
+http://dbpedia.org/resource/Phong_Thạnh_Tây	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Vietnam		1 0 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Phong_Thạnh_Tây	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Bạc_Liêu_Province		1 0 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Phong_Thạnh_Tây	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/CommunesOfBacLieuProvince		0 0 0 0 0 1 1 0 0 0 1 1
+http://dbpedia.org/resource/Phong_Thạnh_Tây	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Communes_of_Bac_Lieu_Province		0 0 0 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Phong_Thạnh_Tây	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/UTC+07:00		0 1 1 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Reamer_Barn	http://www.w3.org/2000/01/rdf-schema#label	Reamer Barn@en		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Reamer_Barn	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/Ohio		0 0 0 0 1 0 0 0 0 0 1 1
+http://dbpedia.org/resource/Reamer_Barn	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/Oberlin,_Ohio		0 0 0 0 0 0 1 1 0 0 1 0
+http://dbpedia.org/resource/Reamer_Barn	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/LandmarksOrHistoricalBuildings		0 1 1 0 0 0 0 1 1 1 0 1
+http://dbpedia.org/resource/Reamer_Barn	http://dbpedia.org/ontology/yearOfConstruction	1897^^http://www.w3.org/2001/XMLSchema#gYear		1 0 0 1 0 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia		1 0 0 0 1 0 1 0 1 1 1 0
+http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Interstate_95		0 0 0 0 0 0 1 0 0 0 1 0
+http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways		0 1 0 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Highway103519981		0 1 0 0 1 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	http://dbpedia.org/ontology/length	56327.04^^http://www.w3.org/2001/XMLSchema#double		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Uelsby	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Schleswig-Flensburg		1 1 1 1 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Uelsby	http://www.w3.org/2000/01/rdf-schema#label	Uelsby@en		1 0 0 0 1 0 1 0 0 0 1 0
+http://dbpedia.org/resource/Uelsby	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/MunicipalitiesInSchleswig-Holstein		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Uelsby	http://dbpedia.org/ontology/postalCode	24860		0 1 0 0 0 0 1 1 0 0 0 1
+http://dbpedia.org/resource/Uelsby	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Germany		0 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Wehlaberg	http://dbpedia.org/ontology/locatedInArea	http://dbpedia.org/resource/Brandenburg		1 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Wehlaberg	http://dbpedia.org/ontology/locatedInArea	http://dbpedia.org/resource/Germany		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Hill109303008		0 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Mountain		0 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Wehlaberg	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Hills_of_Brandenburg		0 1 1 0 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/Wernshausen	http://www.w3.org/2000/01/rdf-schema#label	Wernshausen@en		0 0 0 1 1 0 0 0 1 1 1 0
+http://dbpedia.org/resource/Wernshausen	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Germany		1 1 0 1 0 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Wernshausen	http://dbpedia.org/ontology/areaTotal	2.629E7^^http://www.w3.org/2001/XMLSchema#double		0 0 1 0 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Wernshausen	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/Schmalkalden		1 1 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Wernshausen	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/Schmalkalden-Meiningen		1 0 0 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Yayoidai_Station	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Japan		1 1 0 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Yayoidai_Station	http://dbpedia.org/ontology/openingYear	1976^^http://www.w3.org/2001/XMLSchema#gYear		0 0 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Yayoidai_Station	http://dbpedia.org/ontology/passengersPerDay	16032^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		0 0 0 0 0 0 0 1 1 0 1 1
+http://dbpedia.org/resource/Yayoidai_Station	http://dbpedia.org/ontology/address	5-2 Yayoidai@en		1 0 1 0 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Yayoidai_Station	http://dbpedia.org/ontology/servingRailwayLine	http://dbpedia.org/resource/Sagami_Railway_Izumino_Line		1 1 1 0 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/African_grey_hornbill	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/Animal		0 0 0 0 0 1 1 1 1 0 1 1
+http://dbpedia.org/resource/African_grey_hornbill	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Tockus		0 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/African_grey_hornbill	http://www.w3.org/2000/01/rdf-schema#label	African grey hornbill@en		0 1 1 0 0 0 0 1 1 0 0 0
+http://dbpedia.org/resource/African_grey_hornbill	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Bucerotiformes		0 1 0 0 0 0 0 1 1 1 1 1
+http://dbpedia.org/resource/African_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Birds_of_Africa		0 0 0 0 0 0 0 1 1 0 0 0
+http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Dremomys		0 0 0 0 1 0 1 1 0 0 1 0
+http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Squirrel		1 0 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	http://dbpedia.org/ontology/binomialAuthority	http://dbpedia.org/resource/Oldfield_Thomas		0 0 0 1 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/Mammal		1 1 0 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Red-cheeked_squirrel		1 0 1 1 0 0 1 1 1 1 0 1
+http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Mammals_of_Indonesia		0 1 0 0 0 0 0 1 0 0 0 0
+http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	http://www.w3.org/2000/01/rdf-schema#label	Eastern Sumatran rhinoceros@en		1 0 0 0 1 0 1 0 0 0 1 0
+http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Mammals_of_Borneo		0 0 0 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	http://dbpedia.org/ontology/conservationStatus	EW		1 0 0 0 0 1 1 1 0 1 0 1
+http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	http://dbpedia.org/ontology/species	http://dbpedia.org/resource/Sumatran_rhinoceros		0 1 1 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Enallagma_truncatum	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Odonata		0 1 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Enallagma_truncatum	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Coenagrionidae		0 1 1 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Enallagma_truncatum	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Enallagma		1 0 0 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Enallagma_truncatum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Insect		1 0 0 1 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Enallagma_truncatum	http://dbpedia.org/ontology/conservationStatusSystem	IUCN3.1		1 0 0 0 0 1 1 0 0 0 1 1
+http://dbpedia.org/resource/Lepiota_helveola	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Agaricaceae		1 1 1 0 1 1 1 1 1 0 1 1
+http://dbpedia.org/resource/Lepiota_helveola	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Agaricales		0 1 0 0 0 1 1 1 1 0 1 1
+http://dbpedia.org/resource/Lepiota_helveola	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Lepiota		1 0 1 1 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Lepiota_helveola	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Basidiomycota		0 0 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Lepiota_helveola	http://www.w3.org/2000/01/rdf-schema#label	Lepiota helveola@en		1 1 0 1 1 0 1 1 0 1 1 0
+http://dbpedia.org/resource/Lygodium_microphyllum	http://dbpedia.org/ontology/conservationStatus	G5		0 0 0 0 0 0 0 1 0 0 0 0
+http://dbpedia.org/resource/Lygodium_microphyllum	http://dbpedia.org/ontology/binomialAuthority	http://dbpedia.org/resource/Antonio_José_Cavanilles		1 0 0 0 0 1 1 1 0 0 1 1
+http://dbpedia.org/resource/Lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Fern		0 0 1 1 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/Lygodium_microphyllum	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Lygodium		1 0 0 1 0 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Lygodium_microphyllum	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Lygodium		0 1 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Ovophis_chaseni	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Ovophis		1 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Ovophis	http://xmlns.com/foaf/0.1/name	Ovophis@en		0 1 0 1 1 0 0 1 0 1 1 0
+http://dbpedia.org/resource/Ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Reptile		1 1 1 0 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/Ovophis	http://dbpedia.org/ontology/synonym	In Romano-Hoge, 1981		1 0 0 1 0 1 1 0 1 1 0 1
+http://dbpedia.org/resource/Ovophis	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/Animal		0 0 0 0 1 0 1 0 1 1 1 0
+http://dbpedia.org/resource/Rubus_arizonensis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Rubus		0 0 0 0 1 0 0 1 0 0 1 0
+http://dbpedia.org/resource/Rubus_arizonensis	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Rosaceae		0 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Rubus_arizonensis	http://www.w3.org/2000/01/rdf-schema#label	Rubus arizonensis@en		0 1 1 0 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Rubus_arizonensis	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		0 1 0 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Rubus_arizonensis	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Rubus		0 0 1 0 0 0 1 0 1 1 0 0
+http://dbpedia.org/resource/Siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Fish_of_Vietnam		0 0 0 0 0 0 1 0 0 1 1 1
+http://dbpedia.org/resource/Siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Fish_of_Thailand		1 0 0 0 0 1 1 0 0 0 0 1
+http://dbpedia.org/resource/Siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Fish_of_the_Mekong_Basin		0 0 0 1 0 0 1 1 0 1 0 1
+http://dbpedia.org/resource/Siamese_mud_carp	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Cypriniformes		0 0 0 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Siamese_mud_carp	http://www.w3.org/2000/01/rdf-schema#label	Siamese mud carp@en		1 1 0 1 1 0 1 1 0 1 1 0
+http://dbpedia.org/resource/Trachelipus_dimorphus	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Trachelipodidae		0 1 1 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Trachelipus_dimorphus	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/Malacostraca		0 1 0 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Trachelipus_dimorphus	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Isopoda		0 0 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Trachelipus_dimorphus	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/Crustacean		1 1 0 0 0 0 1 1 0 0 1 1
+http://dbpedia.org/resource/Trachelipus_dimorphus	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Trachelipus		0 0 0 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Foppt_den_Dämon!	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/MusicAlbum		1 1 0 1 0 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Foppt_den_Dämon!	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Medieval_folk_rock		0 1 1 0 0 1 1 1 1 0 1 1
+http://dbpedia.org/resource/Foppt_den_Dämon!	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1996_albums		1 0 0 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/MCMXCV_(album)	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Foppt_den_Dämon!		0 0 0 0 0 0 1 0 0 1 0 1
+http://dbpedia.org/resource/Foppt_den_Dämon!	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/Subway_to_Sally		1 1 0 0 1 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Hip_hop_music		0 1 0 1 1 1 0 1 0 1 1 1
+http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	http://dbpedia.org/ontology/musicalArtist	http://dbpedia.org/resource/Teddybears		1 1 0 0 0 0 1 1 0 0 0 0
+http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	http://xmlns.com/foaf/0.1/name	Hey Boy (Get Your Ass Up)@en		0 0 0 1 0 0 0 0 0 1 0 0
+http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/PhysicalEntity100001930		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	http://dbpedia.org/ontology/musicalArtist	http://dbpedia.org/resource/Blog_27		0 1 1 1 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/King_of_the_Mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1981_films		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/King_of_the_Mountain_(film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Joseph_Bottoms		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/King_of_the_Mountain_(film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Dennis_Hopper		0 0 0 0 0 1 0 1 0 1 1 1
+http://dbpedia.org/resource/King_of_the_Mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/1981Films		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/King_of_the_Mountain_(film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Deborah_Van_Valkenburgh		0 1 0 0 0 0 0 1 1 1 1 1
+http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)	http://www.w3.org/2000/01/rdf-schema#label	Our Leading Citizen (1939 film)@en		1 1 0 1 1 0 1 1 0 1 1 0
+http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Bob_Burns_(comedian)		0 1 0 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Charles_Bickford		0 0 1 1 0 0 1 0 1 1 1 1
+http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1939_films		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:American_comedy_films		1 0 0 0 1 0 1 0 0 0 1 0
+http://dbpedia.org/resource/Simon_(2004_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Marcel_Hensema		1 1 1 0 1 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Films_directed_by_Eddy_Terstall		0 0 0 0 0 0 0 0 0 0 0 1
+http://dbpedia.org/resource/Simon_(2004_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/Cees_Geel		0 1 0 1 1 0 1 1 0 1 1 0
+http://dbpedia.org/resource/Simon_(2004_film)	http://www.w3.org/2000/01/rdf-schema#label	Simon (2004 film)@en		1 1 1 0 0 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Simon_(2004_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Film		0 0 1 1 1 1 0 0 1 1 1 1
+http://dbpedia.org/resource/Sketchy_EP_1	http://dbpedia.org/ontology/releaseDate	1999-10-19^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Sketchy_EP_1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q482994		0 0 0 0 1 0 0 0 0 0 1 1
+http://dbpedia.org/resource/Sketchy_EP_1	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Sketchy_EP_2		0 0 0 1 0 0 0 0 1 1 1 1
+http://dbpedia.org/resource/Sketchy_EP_1	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/Jonah_Matranga		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Sketchy_EP_1	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Jonah_Matranga		1 0 1 1 1 0 1 0 1 1 1 0
+http://dbpedia.org/resource/Sky_(Faye_Wong_album)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Mandopop		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Sky_(Faye_Wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Sony_Music_Entertainment_albums		0 0 0 0 0 0 0 0 1 1 0 1
+http://dbpedia.org/resource/Sky_(Faye_Wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Mandopop_albums		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Sky_(Faye_Wong_album)	http://dbpedia.org/ontology/previousWork	http://dbpedia.org/resource/Random_Thoughts_(Faye_Wong_album)		0 0 0 0 0 0 1 1 0 0 0 0
+http://dbpedia.org/resource/Sky_(Faye_Wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/MusicAlbum		1 1 1 1 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Sting_Me	http://dbpedia.org/ontology/recordLabel	http://dbpedia.org/resource/American_Recordings_(record_label)		0 1 0 0 0 0 0 1 0 1 0 0
+http://dbpedia.org/resource/Sting_Me	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Blues_rock		0 0 0 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Sting_Me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/1992Singles		0 0 0 0 0 0 0 0 0 0 1 1
+http://dbpedia.org/resource/Sting_Me	http://dbpedia.org/ontology/musicalArtist	http://dbpedia.org/resource/The_Black_Crowes		0 0 0 1 0 0 0 0 1 1 0 1
+http://dbpedia.org/resource/Sting_Me	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/George_Drakoulias		0 0 0 1 0 0 1 0 1 1 0 0
+http://dbpedia.org/resource/The_Crowd_Snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1932_animated_films		0 0 1 0 1 0 0 1 1 1 1 0
+http://dbpedia.org/resource/The_Crowd_Snores	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/HollywoodCartoon		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/The_Crowd_Snores	http://xmlns.com/foaf/0.1/name	The Crowd Snores@en		0 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/The_Crowd_Snores	http://dbpedia.org/ontology/director	http://dbpedia.org/resource/Walter_Lantz		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/The_Crowd_Snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Black-and-white_films		0 0 0 1 0 0 0 1 1 1 1 0
+http://dbpedia.org/resource/Touch_of_Death_(1961_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/William_Lucas_(actor)		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Touch_of_Death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Film		1 0 0 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Touch_of_Death_(1961_film)	http://dbpedia.org/ontology/director	http://dbpedia.org/resource/Lance_Comfort		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Touch_of_Death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/CreativeWork		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Touch_of_Death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Black-and-white_films		0 0 0 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Ashot_I_of_Iberia	http://dbpedia.org/ontology/successor	http://dbpedia.org/resource/Adarnase_II_of_Tao-Klarjeti		0 0 0 0 0 0 1 1 0 0 1 0
+http://dbpedia.org/resource/Ashot_I_of_Iberia	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Christian_saints_killed_by_Muslims		0 1 0 0 1 0 0 1 0 0 1 1
+http://dbpedia.org/resource/Ashot_I_of_Iberia	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Saints_of_Georgia_(country)		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Ashot_I_of_Iberia	http://dbpedia.org/ontology/successor	http://dbpedia.org/resource/Bagrat_I_of_Iberia		0 0 0 0 0 0 1 1 0 0 1 0
+http://dbpedia.org/resource/Ashot_I_of_Iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Royalty		1 0 1 0 1 1 1 0 1 0 1 1
+http://dbpedia.org/resource/Cindy_Mackey	http://www.w3.org/2000/01/rdf-schema#label	Cindy Mackey@en		0 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Cindy_Mackey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/GolfPlayer		1 1 0 1 1 1 1 0 0 1 1 1
+http://dbpedia.org/resource/Cindy_Mackey	http://dbpedia.org/ontology/college	http://dbpedia.org/resource/University_of_Georgia		1 0 0 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Cindy_Mackey	http://dbpedia.org/ontology/birthYear	1961^^http://www.w3.org/2001/XMLSchema#gYear		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/Cindy_Mackey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:LPGA_Tour_golfers		0 0 1 0 0 0 1 0 1 0 0 1
+http://dbpedia.org/resource/Edmund_Smith_Conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Anomalistic_psychology		0 1 0 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Edmund_Smith_Conklin	http://xmlns.com/foaf/0.1/name	Conklin, Edmund Smith@en		0 0 0 0 1 0 0 0 0 1 1 0
+http://dbpedia.org/resource/Edmund_Smith_Conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1942_deaths		0 0 0 0 0 0 0 0 0 0 0 1
+http://dbpedia.org/resource/Edmund_Smith_Conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:People_from_New_Britain,_Connecticut		0 1 0 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Edmund_Smith_Conklin	http://dbpedia.org/ontology/birthDate	1884-04-19^^http://www.w3.org/2001/XMLSchema#date		1 0 1 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Fabrice_Gautrat	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/Defender_(association_football)		1 0 1 0 1 0 1 0 1 1 1 1
+http://dbpedia.org/resource/Fabrice_Gautrat	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/Orange_County_Blues_FC		1 0 0 0 0 0 1 0 1 0 1 0
+http://dbpedia.org/resource/Fabrice_Gautrat	http://dbpedia.org/ontology/birthYear	1987^^http://www.w3.org/2001/XMLSchema#gYear		1 1 0 0 0 0 1 1 0 0 1 0
+http://dbpedia.org/resource/Fabrice_Gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Southern_California_Seahorses_players		0 0 0 1 0 0 0 0 0 1 0 0
+http://dbpedia.org/resource/Fabrice_Gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q215627		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Japanese_mystery_writers		0 0 0 0 0 0 1 0 0 1 0 1
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Science_fiction		0 1 0 0 1 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://dbpedia.org/ontology/influencedBy	http://dbpedia.org/resource/Ellery_Queen		0 0 0 0 0 1 1 0 1 0 0 1
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Mystery_fiction		0 0 0 1 1 1 1 0 0 1 1 1
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://dbpedia.org/ontology/birthDate	1957-12-07^^http://www.w3.org/2001/XMLSchema#date		1 1 1 0 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Momchil_Tsvetanov	http://dbpedia.org/ontology/alias	Момчил Цветанов@en		0 0 0 0 0 0 0 1 0 0 1 1
+http://dbpedia.org/resource/Momchil_Tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/BulgarianAProfessionalFootballGroupPlayers		0 0 0 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Momchil_Tsvetanov	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/Bulgaria_national_under-19_football_team		0 0 0 0 0 0 0 0 0 1 0 0
+http://dbpedia.org/resource/Momchil_Tsvetanov	http://xmlns.com/foaf/0.1/name	Momchil Tsvetanov@en		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Momchil_Tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/SoccerPlayer		1 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Najmadin_Shukr_Rauf	http://dbpedia.org/ontology/deathPlace	http://dbpedia.org/resource/Kirkuk_Governorate		0 0 0 0 0 0 0 1 0 1 1 0
+http://dbpedia.org/resource/Najmadin_Shukr_Rauf	http://dbpedia.org/ontology/birthPlace	http://dbpedia.org/resource/Talaban_village		0 0 0 1 0 0 1 0 0 1 1 0
+http://dbpedia.org/resource/Najmadin_Shukr_Rauf	http://dbpedia.org/ontology/birthDate	1957-01-01^^http://www.w3.org/2001/XMLSchema#date		1 1 1 0 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Najmadin_Shukr_Rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/IraqiKurdishPeople		1 0 0 0 1 0 1 0 0 0 1 0
+http://dbpedia.org/resource/Najmadin_Shukr_Rauf	http://dbpedia.org/ontology/birthPlace	http://dbpedia.org/resource/Kingdom_of_Iraq		1 0 0 0 0 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Storme_Warren	http://dbpedia.org/ontology/birthYear	1970^^http://www.w3.org/2001/XMLSchema#gYear		1 0 0 0 0 0 1 0 0 0 0 1
+http://dbpedia.org/resource/Storme_Warren	http://dbpedia.org/ontology/birthPlace	http://dbpedia.org/resource/United_States		1 0 0 0 0 0 1 1 0 0 1 1
+http://dbpedia.org/resource/Storme_Warren	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1970_births		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Storme_Warren	http://dbpedia.org/ontology/birthDate	1970-03-03^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Storme_Warren	http://purl.org/dc/elements/1.1/description	Television personality@en		0 0 1 0 1 0 0 0 1 1 1 1
+http://dbpedia.org/resource/Svyatoslav_Tanasov	http://xmlns.com/foaf/0.1/name	Tanasov, Svyatoslav@en		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Svyatoslav_Tanasov	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/FC_Taganrog		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Svyatoslav_Tanasov	http://dbpedia.org/ontology/height	1.78^^http://www.w3.org/2001/XMLSchema#double		0 0 0 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Svyatoslav_Tanasov	http://xmlns.com/foaf/0.1/name	Svyatoslav Sergeyevich Tanasov@en		0 0 0 0 1 0 0 0 0 0 1 1
+http://dbpedia.org/resource/Svyatoslav_Tanasov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/SoccerPlayer		1 1 0 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/William_Anthony_Hughes	http://dbpedia.org/ontology/birthDate	1921-09-23^^http://www.w3.org/2001/XMLSchema#date		1 1 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/William_Anthony_Hughes	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1921_births		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/William_Anthony_Hughes	http://dbpedia.org/ontology/deathPlace	http://dbpedia.org/resource/Fort_Thomas,_Kentucky		0 1 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/William_Anthony_Hughes	http://xmlns.com/foaf/0.1/name	Hughes, William Anthony@en		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/William_Anthony_Hughes	http://dbpedia.org/ontology/deathDate	2013-02-07^^http://www.w3.org/2001/XMLSchema#date		1 0 1 0 1 1 1 1 1 0 1 1
+http://dbpedia.org/resource/1960_Glover_Trophy	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/West_Sussex		0 1 0 1 0 1 0 1 0 1 0 1
+http://dbpedia.org/resource/1960_Glover_Trophy	http://dbpedia.org/ontology/course	3862.4256^^http://www.w3.org/2001/XMLSchema#double		0 0 0 0 0 0 0 1 1 1 1 0
+http://dbpedia.org/resource/1960_Glover_Trophy	http://dbpedia.org/ontology/distance	162221.8752^^http://www.w3.org/2001/XMLSchema#double		1 0 0 0 0 0 1 1 1 0 1 0
+http://dbpedia.org/resource/1960_Glover_Trophy	http://dbpedia.org/ontology/fastestDriver	http://dbpedia.org/resource/Stirling_Moss		0 0 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/1960_Glover_Trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1960_Formula_One_races		1 1 1 0 1 1 1 1 1 0 1 1
+http://dbpedia.org/resource/1967_Italian_Grand_Prix	http://dbpedia.org/ontology/fastestDriverTeam	http://dbpedia.org/resource/Team_Lotus		0 0 0 0 0 0 1 0 0 1 1 1
+http://dbpedia.org/resource/1967_Italian_Grand_Prix	http://dbpedia.org/ontology/firstDriverTeam	http://dbpedia.org/resource/Honda_in_Formula_One		1 1 1 1 1 1 0 1 1 1 1 1
+http://dbpedia.org/resource/1967_Italian_Grand_Prix	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Italy		0 1 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/1967_Italian_Grand_Prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/GrandPrix		1 1 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/1967_Italian_Grand_Prix	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/Autodromo_Nazionale_Monza		1 0 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Copa_América_de_Futsal		0 0 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/SoccerTournament		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2008_in_futsal		1 1 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	http://dbpedia.org/ontology/time	18:30		0 0 0 0 0 0 0 0 0 0 0 1
+http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	http://www.w3.org/2000/01/rdf-schema#label	2008 Copa América – FIFA Futsal@en		1 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_del_Rey_Final	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/Valencia_CF		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_del_Rey_Final	http://dbpedia.org/ontology/previousEvent	http://dbpedia.org/resource/2007_Copa_del_Rey_Final		0 0 0 0 0 0 1 1 0 0 1 0
+http://dbpedia.org/resource/2008_Copa_del_Rey_Final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/FootballMatch		1 1 0 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_del_Rey_Final	http://dbpedia.org/ontology/date	2008-04-16^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2008_Copa_del_Rey_Final	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/Vicente_Calderón_Stadium		0 0 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2010_Belgian_Super_Cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Belgian_Supercup		0 0 0 0 0 0 0 0 0 0 0 1
+http://dbpedia.org/resource/2010_Belgian_Super_Cup	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/Anderlecht		0 0 0 0 1 0 1 1 1 0 1 1
+http://dbpedia.org/resource/2010_Belgian_Super_Cup	http://xmlns.com/foaf/0.1/name	2010 Belgian Super Cup@en		0 1 0 0 0 1 0 1 1 1 0 1
+http://dbpedia.org/resource/2010_Belgian_Super_Cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/FootballMatch		1 1 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/2010_Belgian_Super_Cup	http://dbpedia.org/ontology/date	2010-07-23^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2013_Slovak_Cup_Final	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/Štadión_pod_Čebraťom		1 0 0 1 0 1 1 0 0 1 1 1
+http://dbpedia.org/resource/2013_Slovak_Cup_Final	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/Ružomberok		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2013_Slovak_Cup_Final	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/ŠK_Slovan_Bratislava		0 0 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2013_Slovak_Cup_Final	http://dbpedia.org/ontology/date	2013-05-01^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/2013_Slovak_Cup_Final	http://xmlns.com/foaf/0.1/name	2013 Slovnaft Cup Final@en		0 1 0 1 1 0 0 1 0 1 1 1
+http://dbpedia.org/resource/Battle_of_Calicut_(1502)	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Kozhikode		1 0 0 0 1 0 0 0 0 1 1 0
+http://dbpedia.org/resource/Battle_of_Calicut_(1502)	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/India		0 0 1 1 0 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Battle_of_Calicut_(1502)	http://dbpedia.org/ontology/combatant	Calicut		0 0 0 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Battle_of_Calicut_(1502)	http://dbpedia.org/ontology/date	1502-01-06^^http://www.w3.org/2001/XMLSchema#date		1 0 1 1 1 0 1 0 1 1 1 0
+http://dbpedia.org/resource/Battle_of_Calicut_(1502)	http://dbpedia.org/ontology/result	Portuguesevictory		1 1 1 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Francisco_Ramírez_(governor)		0 0 0 0 0 0 1 1 0 1 1 1
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/Estanislao_López		0 1 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://dbpedia.org/ontology/result	Federalistvictory		1 0 1 0 0 1 1 0 1 1 0 1
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War		1 0 0 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/José_Rondeau		0 1 0 0 1 0 1 1 0 1 1 1
+http://dbpedia.org/resource/Battle_on_the_Elster	http://dbpedia.org/ontology/date	1080-10-14^^http://www.w3.org/2001/XMLSchema#date		1 0 1 1 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Battle_on_the_Elster	http://dbpedia.org/ontology/combatant	Holy Roman Emperor, Henry IV		1 1 0 0 1 0 0 1 0 1 1 0
+http://dbpedia.org/resource/Battle_on_the_Elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Battle100953559		0 0 0 0 1 0 0 0 0 0 1 0
+http://dbpedia.org/resource/Battle_on_the_Elster	http://dbpedia.org/ontology/combatant	Rudolf of Swabia		0 1 0 0 1 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Battle_on_the_Elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/MilitaryConflict		0 0 0 1 0 1 0 1 0 1 0 1
+http://dbpedia.org/resource/Operation_Hump	http://dbpedia.org/ontology/isPartOfMilitaryConflict	http://dbpedia.org/resource/Vietnam_War		0 0 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Operation_Hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Dong_Nai_Province		0 0 1 0 0 0 0 0 1 1 1 1
+http://dbpedia.org/resource/Operation_Hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingAustralia		0 0 1 0 1 0 0 0 1 0 1 0
+http://dbpedia.org/resource/Operation_Hump	http://www.w3.org/2000/01/rdf-schema#label	Operation Hump@en		1 1 0 0 0 0 1 1 0 0 0 0
+http://dbpedia.org/resource/Operation_Hump	http://dbpedia.org/ontology/date	1965-11-08^^http://www.w3.org/2001/XMLSchema#date		1 1 0 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Darreh_Dang	http://xmlns.com/foaf/0.1/name	دره دنگ@en		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Darreh_Dang	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Zaz_va_Mahru_District		0 0 0 1 0 0 0 0 1 1 1 0
+http://dbpedia.org/resource/Darreh_Dang	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Iran		1 1 0 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Darreh_Dang	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Location		0 0 0 0 1 0 0 0 0 0 1 0
+http://dbpedia.org/resource/Darreh_Dang	http://dbpedia.org/ontology/populationTotal	451^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		1 1 1 1 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Khyber_Pakhtunkhwa		0 1 1 1 0 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa	http://www.w3.org/2000/01/rdf-schema#label	Jalalia, Khyber Pakhtunkhwa@en		0 1 1 0 0 0 0 1 1 0 1 1
+http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Pakistan		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa	http://dbpedia.org/ontology/timeZone	http://dbpedia.org/resource/Pakistan_Standard_Time		1 0 1 1 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Populated_places_in_Abbottabad_District		0 0 1 0 0 0 0 1 1 0 1 1
+http://dbpedia.org/resource/Kings_Ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/VillagesInCambridgeshire		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Kings_Ripton	http://dbpedia.org/ontology/populationTotal	168^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		0 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Kings_Ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/PhysicalEntity100001930		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Kings_Ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q486972		0 0 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Kings_Ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Villages_in_Cambridgeshire		1 0 1 0 0 1 1 0 1 0 1 1
+http://dbpedia.org/resource/Kotumachagi	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Gadag-Betageri		0 0 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Kotumachagi	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Villages_in_Gadag_district		0 1 1 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/VillagesInGadagDistrict		0 0 1 1 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/Kotumachagi	http://xmlns.com/foaf/0.1/name	Kotumachagi@en		0 0 0 1 1 0 0 0 0 1 1 0
+http://dbpedia.org/resource/Kotumachagi	http://dbpedia.org/ontology/populationTotal	6895^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		0 0 0 0 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Muławki	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Villages_in_Kętrzyn_County		0 0 1 0 1 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Muławki	http://www.w3.org/2000/01/rdf-schema#label	Muławki@en		1 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Muławki	http://xmlns.com/foaf/0.1/name	Muławki@en		0 0 0 0 0 0 0 1 0 0 1 0
+http://dbpedia.org/resource/Muławki	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Poland		1 1 0 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/VillagesInK%C4%99trzynCounty		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	http://dbpedia.org/ontology/locatedInArea	http://dbpedia.org/resource/South_Carolina		0 0 0 0 1 1 0 0 0 1 1 1
+http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Mountains_of_South_Carolina		0 0 0 0 0 0 1 0 1 0 0 1
+http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	http://dbpedia.org/ontology/locatedInArea	http://dbpedia.org/resource/Pickens_County,_South_Carolina		1 0 1 0 0 0 1 1 1 0 0 0
+http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/NaturalElevation109366317		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	http://dbpedia.org/ontology/nationalTopographicSystemMapNumber	USGSTable Rock		0 0 0 0 0 0 1 0 0 1 1 1
+http://dbpedia.org/resource/Saint-Raphaël,_Var	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur		0 0 1 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Saint-Raphaël,_Var	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Communes_of_Var_(department)		0 1 1 0 0 0 1 1 1 0 0 0
+http://dbpedia.org/resource/Jean-Christophe,_Prince_Napoléon	http://dbpedia.org/ontology/birthPlace	http://dbpedia.org/resource/Saint-Raphaël,_Var		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/Saint-Raphaël,_Var	http://www.w3.org/2000/01/rdf-schema#label	Saint-Raphaël, Var@en		0 0 0 0 1 1 1 0 0 0 1 1
+http://dbpedia.org/resource/Saint-Raphaël,_Var	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG		0 0 1 0 0 0 0 0 1 1 1 0
+http://dbpedia.org/resource/Sauxillanges	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/Auvergne_(region)		0 1 0 0 0 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Sauxillanges	http://www.georss.org/georss/point	45.551 3.372		1 1 0 0 0 0 1 1 0 0 0 0
+http://dbpedia.org/resource/Sauxillanges	http://www.w3.org/2003/01/geo/wgs84_pos#long	3.372^^http://www.w3.org/2001/XMLSchema#float		0 0 0 1 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/Sauxillanges	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/France		0 1 1 0 0 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Sauxillanges	http://dbpedia.org/ontology/populationTotal	1151^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		1 0 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Stara_Bučka	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Municipality_of_Škocjan		0 0 0 0 0 0 0 0 0 1 1 1
+http://dbpedia.org/resource/Stara_Bučka	http://www.georss.org/georss/point	45.9213 15.306447222222221		0 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Stara_Bučka	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Lower_Carniola		0 0 0 0 0 0 1 0 0 1 0 0
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/PopulatedPlace		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/Stara_Bučka	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Slovenia		1 1 0 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Village108672738		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Zarudcze	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Villages_in_Sandomierz_County		0 1 0 0 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/VillagesInSandomierzCounty		1 0 0 0 0 0 1 0 0 0 0 0
+http://dbpedia.org/resource/Zarudcze	http://dbpedia.org/ontology/isPartOf	http://dbpedia.org/resource/Sandomierz_County		0 0 1 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Amphisbaena_ridleyi	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Amphisbaenidae		1 0 1 1 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/Amphisbaena_ridleyi	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Squamata		0 0 0 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Amphisbaena_ridleyi	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/Chordate		0 1 0 0 0 1 0 1 0 1 1 1
+http://dbpedia.org/resource/Amphisbaena_ridleyi	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png		0 0 0 1 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/Amphisbaena_ridleyi	http://www.w3.org/2000/01/rdf-schema#label	Amphisbaena ridleyi@en		0 1 0 1 1 0 0 1 0 1 1 0
+http://dbpedia.org/resource/Balanites	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Balanites		0 0 0 0 0 0 0 1 1 0 0 0
+http://dbpedia.org/resource/Balanites	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Zygophyllaceae		0 0 0 1 0 0 0 1 0 1 1 0
+http://dbpedia.org/resource/Balanites	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		0 0 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Balanites	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Tribuloideae		1 1 1 0 0 1 1 1 1 1 0 1
+http://dbpedia.org/resource/Balanites	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Rosids		0 1 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Bryotropha_plantariella	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Gelechiidae		0 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Bryotropha_plantariella	http://dbpedia.org/ontology/synonym	*Bryotropha brevipalpella (Rebel, 1893)		0 0 0 0 0 0 1 1 0 0 1 0
+http://dbpedia.org/resource/Bryotropha_plantariella	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/Arthropod		1 0 1 0 1 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Bryotropha_plantariella	http://xmlns.com/foaf/0.1/name	Bryotropha plantariella@en		0 0 0 1 0 1 0 0 0 1 0 1
+http://dbpedia.org/resource/Bryotropha_plantariella	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Moths_described_in_1848		0 1 1 0 0 1 0 1 1 0 0 1
+http://dbpedia.org/resource/Hilarographa_excellens	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Hilarographini		0 0 0 0 0 1 0 1 0 0 0 1
+http://dbpedia.org/resource/Hilarographa_excellens	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Lepidoptera		1 1 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Hilarographa_excellens	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/Special:FilePath/03-Thaumatographa_excellens_Pagenstecher,_1900.JPG		0 0 1 1 0 0 0 0 1 1 1 1
+http://dbpedia.org/resource/Hilarographa_excellens	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Tortricidae		1 1 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Hilarographa_excellens	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Species		0 0 0 0 1 0 0 1 0 0 1 0
+http://dbpedia.org/resource/Inverted_repeat-lacking_clade	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Faboideae		0 0 0 0 1 0 1 0 0 0 1 0
+http://dbpedia.org/resource/Inverted_repeat-lacking_clade	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		0 0 0 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Inverted_repeat-lacking_clade	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Plant		1 0 1 0 0 0 1 1 1 1 0 1
+http://dbpedia.org/resource/Inverted_repeat-lacking_clade	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/Eudicots		1 1 1 1 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Inverted_repeat-lacking_clade	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Rosids		0 1 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Melaleuca_sheathiana	http://dbpedia.org/ontology/binomialAuthority	http://dbpedia.org/resource/William_Vincent_Fitzgerald		0 0 1 0 0 1 0 1 1 1 1 1
+http://dbpedia.org/resource/Melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Flora_of_Western_Australia		0 0 1 0 1 0 1 0 1 0 1 1
+http://dbpedia.org/resource/Melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Melaleuca		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Myrtales_of_Australia		0 0 0 1 0 0 0 0 1 1 0 0
+http://dbpedia.org/resource/Melaleuca_sheathiana	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		1 0 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Fish_of_South_America		0 0 0 1 0 0 0 0 1 1 0 1
+http://dbpedia.org/resource/Pseudanos_trimaculatus	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Anostomidae		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Pseudanos_trimaculatus	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Characiformes		0 0 0 0 1 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Pseudanos_trimaculatus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q152		0 0 0 1 1 1 0 0 0 1 1 1
+http://dbpedia.org/resource/Pseudanos_trimaculatus	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/Actinopterygii		1 0 0 0 1 0 1 0 1 1 1 0
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		1 0 1 0 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Dipterocarpaceae		0 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/Eudicots		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/Malvales		0 0 0 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Endangered_plants		0 0 0 0 0 0 1 0 1 0 0 0
+http://dbpedia.org/resource/Thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Neottieae		0 0 0 0 0 0 0 0 0 1 1 0
+http://dbpedia.org/resource/Thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Orchids_of_Thailand		0 1 1 0 1 0 0 1 1 0 1 0
+http://dbpedia.org/resource/Thaia_saprophytica	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Neottieae		0 0 0 0 1 1 1 1 1 0 1 1
+http://dbpedia.org/resource/Thaia_saprophytica	http://xmlns.com/foaf/0.1/name	Thaia@en		0 1 0 1 0 1 0 1 1 1 0 1
+http://dbpedia.org/resource/Thaia_saprophytica	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		0 1 1 0 0 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Trichoscypha_cavalliensis	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/Anacardiaceae		1 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Trichoscypha_cavalliensis	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/Flowering_plant		0 0 0 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Trichoscypha_cavalliensis	http://www.w3.org/2000/01/rdf-schema#label	Trichoscypha cavalliensis@en		1 1 0 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Trichoscypha_cavalliensis	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/Trichoscypha		1 1 1 1 0 0 1 1 1 1 1 0
+http://dbpedia.org/resource/Trichoscypha_cavalliensis	http://dbpedia.org/ontology/conservationStatus	VU		1 0 0 0 0 0 1 0 1 1 0 0
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/subsequentWork	http://dbpedia.org/resource/Ear_Fun		0 0 0 1 0 0 1 0 1 1 1 0
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/CNBLUE		1 1 1 0 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/releaseDate	2011-09-01^^http://www.w3.org/2001/XMLSchema#date		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/2000/01/rdf-schema#label	392 (album)@en		0 0 1 0 0 0 0 0 1 0 0 1
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Album		0 0 0 0 0 1 0 0 0 0 0 1
+http://dbpedia.org/resource/Drama_City	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/South_Korea		0 1 1 1 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/Drama_City	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/South_Korea		1 0 0 0 1 1 1 0 0 0 1 1
+http://dbpedia.org/resource/Drama_City	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Korean_Broadcasting_System_television_dramas		0 0 0 0 0 0 1 0 0 0 1 1
+http://dbpedia.org/resource/Drama_City	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Telecommunication106271778		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Drama_City	http://dbpedia.org/ontology/releaseDate	1984-11-30^^http://www.w3.org/2001/XMLSchema#date		1 0 1 0 1 1 1 0 1 1 1 1
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://dbpedia.org/ontology/musicalBand	http://dbpedia.org/resource/Glasvegas		0 0 1 1 0 0 1 0 1 1 1 1
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Indie_rock		1 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2013_singles		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/Later...When_the_TV_Turns_to_Static		0 1 1 1 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://dbpedia.org/ontology/runtime	269.0^^http://www.w3.org/2001/XMLSchema#double		1 0 0 0 0 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/Springer_Science+Business_Media		1 0 0 0 1 1 1 1 1 0 1 1
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/AcademicJournal		1 1 1 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Springer_Science+Business_Media_academic_journals		0 1 0 0 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://dbpedia.org/ontology/impactFactorAsOf	2013^^http://www.w3.org/2001/XMLSchema#gYear		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://dbpedia.org/ontology/impactFactor	5.544^^http://www.w3.org/2001/XMLSchema#double		0 0 1 1 1 0 0 1 1 1 1 1
+http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Billboard_Hot_100_number-one_singles		0 0 0 0 0 0 0 0 0 0 0 1
+http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	http://dbpedia.org/ontology/musicalArtist	http://dbpedia.org/resource/Billy_Joel		0 1 0 0 1 0 0 1 1 1 1 0
+http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	http://dbpedia.org/ontology/releaseDate	1980-05-12^^http://www.w3.org/2001/XMLSchema#date		0 0 1 0 1 1 1 0 1 0 1 1
+http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/MusicalWork		0 0 1 0 1 1 1 0 1 0 1 1
+http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	http://dbpedia.org/ontology/runtime	177.0^^http://www.w3.org/2001/XMLSchema#double		0 0 0 1 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/Politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Media_in_Copenhagen		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Politiken	http://dbpedia.org/ontology/language	http://dbpedia.org/resource/Danish_language		0 1 0 1 1 0 1 1 0 1 1 1
+http://dbpedia.org/resource/Politiken	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/JP/Politikens_Hus		1 1 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Newspaper		0 1 0 1 1 1 1 1 0 1 1 1
+http://dbpedia.org/resource/Politiken	http://dbpedia.org/ontology/circulation	88597^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger		0 0 0 0 0 1 1 0 0 0 0 1
+http://dbpedia.org/resource/Rebel_Love_Song	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Hard_rock_songs		0 0 1 0 0 0 0 0 1 0 0 0
+http://dbpedia.org/resource/Rebel_Love_Song	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2011_singles		0 0 0 0 0 0 0 1 1 1 0 0
+http://dbpedia.org/resource/Rebel_Love_Song	http://dbpedia.org/ontology/musicalBand	http://dbpedia.org/resource/Black_Veil_Brides		1 0 1 0 0 0 1 1 1 0 0 1
+http://dbpedia.org/resource/Rebel_Love_Song	http://dbpedia.org/ontology/recordDate	2011-08-22^^http://www.w3.org/2001/XMLSchema#date		1 1 0 0 1 0 1 1 0 0 1 1
+http://dbpedia.org/resource/Rebel_Love_Song	http://dbpedia.org/ontology/musicalArtist	http://dbpedia.org/resource/Black_Veil_Brides		0 0 1 1 1 1 0 0 1 1 1 1
+http://dbpedia.org/resource/Terrorist_Threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/MusicAlbum		0 1 0 1 0 0 0 1 0 1 0 0
+http://dbpedia.org/resource/Terrorist_Threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Gangsta_rap_albums		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Terrorist_Threats	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/Damizza		0 0 0 0 0 0 0 0 0 0 0 0
+http://dbpedia.org/resource/Terrorist_Threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/MusicalWork		1 0 0 0 0 1 1 0 0 0 0 1
+http://dbpedia.org/resource/Terrorist_Threats	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/Westside_Connection		1 1 0 0 0 0 1 1 1 1 0 0
+http://dbpedia.org/resource/Time_(Dave_Clark_album)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Pop_rock		1 1 0 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Time_(Dave_Clark_album)	http://dbpedia.org/ontology/recordLabel	http://dbpedia.org/resource/Capitol_Records		1 1 1 0 1 0 1 1 1 1 1 1
+http://dbpedia.org/resource/Time_(Dave_Clark_album)	http://xmlns.com/foaf/0.1/name	Dave Clark's \"Time\": The Album@en		1 0 1 0 0 1 1 0 1 1 0 1
+http://dbpedia.org/resource/Time_(Dave_Clark_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Album		0 1 0 1 0 1 1 1 0 1 0 1
+http://dbpedia.org/resource/Time_(Dave_Clark_album)	http://dbpedia.org/ontology/runtime	6129.0^^http://www.w3.org/2001/XMLSchema#double		0 0 0 1 1 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Wide_Awake_Drunk	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:2009_albums		1 0 0 0 0 0 1 1 1 0 1 0
+http://dbpedia.org/resource/Wide_Awake_Drunk	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Album		0 0 0 1 0 0 0 0 0 1 0 0
+http://dbpedia.org/resource/Wide_Awake_Drunk	http://dbpedia.org/ontology/recordedIn	http://dbpedia.org/resource/Atlanta		0 0 1 1 0 1 1 1 1 1 1 1
+http://dbpedia.org/resource/Wide_Awake_Drunk	http://dbpedia.org/ontology/recordedIn	http://dbpedia.org/resource/New_York		0 1 1 0 0 0 1 1 1 0 1 1
+http://dbpedia.org/resource/Wide_Awake_Drunk	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Indie_folk		1 1 1 0 1 1 1 1 1 1 1 1
